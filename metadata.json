@@ -1,0 +1,6 @@
+{
+  "name": "Free Online Web Tools Hub",
+  "description": "A comprehensive, search-optimized collection of free web utilities including an Image Converter, PDF tools, Invoice Generator, QR Code Generator, and text processing utilities designed for maximum speed and SEO performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

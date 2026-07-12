@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Direct link to sitemap for search crawlers
+Sitemap: https://freeonlinewebtoolshub.com/sitemap.xml

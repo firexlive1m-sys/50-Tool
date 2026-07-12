@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Main Home Page & Tools Hub Dashboard -->
+  <url>
+    <loc>https://freeonlinewebtoolshub.com/</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- Image Converter Tool -->
+  <url>
+    <loc>https://freeonlinewebtoolshub.com/#image-converter</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- QR Code Generator -->
+  <url>
+    <loc>https://freeonlinewebtoolshub.com/#qr-generator</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Invoice Generator -->
+  <url>
+    <loc>https://freeonlinewebtoolshub.com/#invoice-generator</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- PDF Converter & Utility -->
+  <url>
+    <loc>https://freeonlinewebtoolshub.com/#pdf-converter</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Word Counter & Text Analyzer -->
+  <url>
+    <loc>https://freeonlinewebtoolshub.com/#text-analyzer</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Secure Password Generator -->
+  <url>
+    <loc>https://freeonlinewebtoolshub.com/#password-generator</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Loan EMI Calculator -->
+  <url>
+    <loc>https://freeonlinewebtoolshub.com/#emi-calculator</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- BMI Fitness Calculator -->
+  <url>
+    <loc>https://freeonlinewebtoolshub.com/#bmi-calculator</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Base64 Encoder & Decoder -->
+  <url>
+    <loc>https://freeonlinewebtoolshub.com/#base64-tool</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
